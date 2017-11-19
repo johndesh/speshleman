@@ -66,3 +66,12 @@ h1 {
 	float: left;
 	margin: 20%;
 }
+
+.backgroundImage {
+	display: block;
+	width: 100%;
+}
+
+.backgroundImage img {
+	width: inherit;
+}
