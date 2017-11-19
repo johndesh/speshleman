@@ -53,6 +53,16 @@ h1 {
 	font-weight: bold;
 }
 
+.mainImage {
+	display: inline-block;
+	width: 500px;
+}
+
+#fireEsh {
+	width: inherit;
+}
+
 .message {
-	margin: 20% 30%;
+	float: left;
+	margin: 20%;
 }
